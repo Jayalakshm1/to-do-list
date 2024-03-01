@@ -1,0 +1,53 @@
+body
+{
+    font-family:papyrus;
+    font-size:25px;
+    background-color: bisque;
+    border:20px solid goldenrod;
+    width:800px;
+    height:600px;
+    padding:30px;
+    margin:10px;
+}
+
+
+
+.box1 {
+    background-color:  palegreen;
+    width: 200px;
+    border-left: 10px solid blue;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 50px;
+
+  }
+
+  .box2 {
+    background-color:  paleturquoise;
+    width: 200px;
+    border-left: 10px solid blue;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 50px;
+
+  }
+
+  .box3 {
+    background-color:  palevioletred;
+    width: 200px;
+    border-left: 10px solid blue;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 50px;
+
+  }
+
+  .box4 {
+    background-color:  peachpuff;
+    width: 200px;
+    border-left: 10px solid blue;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 50px;
+
+  }
